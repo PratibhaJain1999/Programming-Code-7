@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>session7</title>
+         </head>
+         <body>
+             <button type="button" id="pratibha1" class=pratz1 style="background-color: blueviolet;">button1</button>
+             <button type="button" id="pratibha2" class=pratz2 style="background-color: chocolate;">button2</button>
+             <button type="button" id="pratibha3" class=pratz1 style="background-color: crimson;">button3</button>
+             <button type="button" id="pratibha4" class=pratz3 style="background-color: darkgoldenrod;">button4</button>
+             <button type="button" id="pratibha5" class=pratz1 style="background-color: lightgreen;">button5</button>
+             <button type="button" id="pratibha6" class=pratz2 style="background-color: darkmagenta;">button6</button><br>
+             <button type="button"id="pratibha7" class=pratz1 style="background-color: palevioletred;">button7</button>
+             <button type="button"id="pratibha8" class=pratz2 style="background-color: plum;">button8</button>
+             <button type="button"id="pratibha9" class=pratz1 style="background-color: orange;">button9</button>
+             <button type="button"id="pratibha10" class=pratz1 style="background-color: orangered;">button10</button><br><br>
+             <button type="button"id="pratibha11" class=pratz1>button11</button>
+             <button type="button"id="pratibha12" class=pratz3>button12</button>
+             <button type="button"id="pratibha13" class=prat2>button13</button>
+             <button type="button"id="pratibha14" class=pratz1>button14</button>
+             <button type="button"id="pratibha15" class=pratz2>button15</button>
+             <button type="button"id="pratibha16" class=pratz1>button16</button>
+             <button type="button"id="pratibha17" class=pratz3>button17</button>
+             <button type="button"id="pratibha18" class=pratz2>button18</button>      
+             </body>
+             </html>      
+<style>
+    #pratibha11{
+        background-color: mediumblue;
+    }
+    #pratibha12{
+        background-color: palegoldenrod;
+    }
+    #pratibha13{
+        background-color: peru;
+    }
+    #pratibha14{
+        background-color: purple;
+    }
+    .pratz1{
+        background-color: seagreen
+    }
+    .pratz2{
+        background-color: blueviolet
+    }
+    .pratz3{
+        background-color: aqua
+    }
+        
+</style>
+    
+
